@@ -77,31 +77,11 @@
 
 - 开发语言：C/C++/Python/shell
 - 开发工具：gcc/gdb/emacs/vim/Wireshark
-- 开发框架：Poco/Boost/ACE
+- 开发库：Poco/Boost/ACE
+- 网络编程：socket/tcp/udp
 - 数据库相关：MySQL/Oracle/Redis/TimesTen
 - 版本管理、文档和自动化部署工具：Svn/Git
-
-## 参考技能关键字
-
-- linux
-- unix
-- socket
-- tcp
-- udp
-- wireshark
-- python
-- mysql
-- oracle
-- redis
-- stl
-- gdb
-- gcc
-- boost
-- ace
-- oop
-- make
-- epoll
-
+- 操作系统：CentOS/Debian/Ubuntu
 ---
 
 # 致谢
