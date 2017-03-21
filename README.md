@@ -56,8 +56,8 @@
 以下均为我熟练使用的技能
 
 - 开发语言：C/C++/Python/shell
-- 开源框架：Poco/Boost/ACE
-- 开发工具：gcc/gdb/Wireshark
+- 开发工具：gcc/gdb/emacs/vim/Wireshark
+- 开发框架：Poco/Boost/ACE
 - 数据库相关：MySQL/Oracle/Redis/TimesTen
 - 版本管理、文档和自动化部署工具：Svn/Git
 
@@ -69,17 +69,17 @@
 - unix
 - python
 - socket
-- oracle(61)
-- stl(41)
-- gdb(21)
-- gcc(18)
-- udp(17)
-- boost(12)
-- redis(8)
-- oop(7)
-- make(6)
-- epoll(4)
-- ace(4)
+- oracle
+- stl
+- gdb
+- gcc
+- udp
+- boost
+- redis
+- oop
+- make
+- epoll
+- ace
 
 
 
